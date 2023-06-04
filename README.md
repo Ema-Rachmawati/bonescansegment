@@ -1,6 +1,6 @@
 # bonescansegment
 
-Arsitektur BtrFly-Eff yang merupakan modifikasi dari BtrflyNet.
+Arsitektur Efficient-BtrflyNet yang merupakan modifikasi dari BtrflyNet.
 
 Training:
 
